@@ -11,6 +11,7 @@ namespace GitTraining
         static void Main(string[] args)
         {
             String myName = "Fraser1";
+            String myName1 = "Michal";
 
             Console.WriteLine("Hello " + myName + " how are you today?");
 
