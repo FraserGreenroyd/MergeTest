@@ -12,6 +12,7 @@ namespace GitTraining
         {
             String myName = "Fraser1";
             String myName1 = "Michal";
+            String myName2 = "Michal";
 
             Console.WriteLine("Hello " + myName + " how are you today?");
 
